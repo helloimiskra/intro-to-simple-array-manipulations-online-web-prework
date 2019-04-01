@@ -33,7 +33,7 @@ end
 
 def using_insert(array, element)
   another_esoteric_language = "Malbolge"
-  array.insert(4, 'another_esoteric_language')
+  array.insert(4, "Malbolge")
 end
 
 def using_uniq(array)
