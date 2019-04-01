@@ -32,7 +32,7 @@ def using_concat(array_1, array_2)
 end
 
 def using_insert(array, element)
-  array.insert(3, 'another_esoteric_language')
+  array.insert(4, 'another_esoteric_language')
 end
 
 def using_uniq(array)
